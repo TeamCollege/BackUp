@@ -4794,30 +4794,13 @@
 											"height": 13,
 											"text": "+managePlacements()",
 											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAFtR7g/yQZSU18=",
-											"_parent": {
-												"$ref": "AAAAAAFtRZaa13kRVG8="
-											},
-											"model": {
-												"$ref": "AAAAAAFtR7g/kgY9qys="
-											},
-											"font": "Arial;13;0",
-											"left": 1413,
-											"top": 289,
-											"width": 131.14892578125,
-											"height": 13,
-											"text": "+Operation3()",
-											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1408,
 									"top": 179,
 									"width": 141.14892578125,
-									"height": 128
+									"height": 113
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -20290,14 +20273,6 @@
 								"$ref": "AAAAAAFtRZaa1nkI2Wg="
 							},
 							"name": "managePlacements"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAFtR7g/kgY9qys=",
-							"_parent": {
-								"$ref": "AAAAAAFtRZaa1nkI2Wg="
-							},
-							"name": "Operation3"
 						}
 					]
 				},
@@ -22647,7 +22622,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFtXam65G8axcc="
 							},
-							"name": "applicantId"
+							"name": "applicantId",
+							"type": ""
 						}
 					],
 					"operations": [
